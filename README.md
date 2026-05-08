@@ -126,7 +126,7 @@ O que ainda não entendi:
 Depois de finalizar, copie no Moodle:
 
 ```text
-Repositório:
+Repositório: https://github.com/frndchagas-org/diagn-stico-de-retomada-teoria-da-computa-o-arthuraguiar-del/tree/main
 Commit final:
 Autoavaliação: nível atual, maior dificuldade e tópico que precisa ser retomado.
 ```
