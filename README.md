@@ -127,7 +127,7 @@ Depois de finalizar, copie no Moodle:
 
 ```text
 Repositório: https://github.com/frndchagas-org/diagn-stico-de-retomada-teoria-da-computa-o-arthuraguiar-del/tree/main
-Commit final:
+Commit final: Update README.md
 Autoavaliação: nível atual: de 0 a 10, 7
 maior dificuldade: gramatica
 tópico que precisa ser retomado: hierarquia de Chomsky
